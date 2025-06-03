@@ -154,7 +154,7 @@ parte e viaggiare senza l'uso di queste energie. Nessuna di esse sarà in grado 
 senza queste tre. Quindi l'accesso a queste tre è essenziale. Devi averle. E senza di esse, penso che questo 
 sia davvero il problema: il dibattito sull'energia può sembrare sciocco a volte perché certe persone lo 
 considerano in termini di moralità, come sai, cosa è meglio, cosa fa sentire meglio, mentre altre persone lo 
-considerano in termini di ingegneria. Cosa consente al tuo lavastoviglie di funzionare? Cosa consente alla 
+considerano in termini di ingegneria. Cosa consente alla tua lavastoviglie di funzionare? Cosa consente alla 
 tua lavatrice di funzionare? Cosa consente alle incubatrici per i bambini negli ospedali di funzionare 24 ore
 su 24? Quindi, se lo consideri dalla prospettiva di garantire che tutti questi luoghi abbiano energia 
 affidabile 24 ore su 24, come ingegnere, capisci che non c'è alternativa a quelle tre fonti. Se hai una fonte 
@@ -207,7 +207,7 @@ Perché abbiamo così tanto capitale investito e così tanta infrastruttura dedi
 senso riconvertirla tutta per il nucleare. Quindi non c'è un'alternativa affidabile per la stragrande 
 maggioranza dell'umanità. Non c'è davvero un'alternativa affidabile agli idrocarburi, tranne l'oscurità. La 
 stragrande maggioranza dell'umanità non vive vicino a fonti idroelettriche affidabili. Quindi è estremamente 
-limitata nella quantità di energia che può generare. Devi vivere vicino a un luogo dove c'è una grande fonte 
+limitata nella quantità di energia che può generare. Devi vivere vicino ad un luogo dove c'è una grande fonte 
 d'acqua che scorre rapidamente, e questo non accade ovunque. Il nucleare richiederà ancora molto tempo per 
 essere implementato, solo da una prospettiva puramente tecnica, perché richiede un enorme investimento in 
 infrastrutture di capitale. Le centrali elettriche sono costruite per servire non per meno di 20 anni, ma per 
@@ -224,8 +224,8 @@ Ora, una breve parola dai nostri sponsor.
 (PUBBLICITÀ)
 
 
-Ci sono altri esseri viventi che utilizziamo da altri animali viventi, altri esseri viventi la cui energia consumiamo. E poi,  man mano che la civiltà, la tecnologia e 
-l'accumulo di capitale avanzano, iniziamo a utilizzare forme di energia sempre più avanzate o, forse, un modo migliore di pensarci è considerarle fonti di energia più 
+Ci sono altri esseri viventi che utilizziano altri animali viventi, altri esseri viventi la cui energia consumiamo. E poi,  man mano che la civiltà, la tecnologia e 
+l'accumulo di capitale avanzano, iniziamo ad utilizzare forme di energia sempre più avanzate o, forse, un modo migliore di pensarci è considerarle fonti di energia più 
 economiche. Abbiamo iniziato a trovare modi per utilizzare sempre più energia e potere nella nostra vita quotidiana. Quindi, vedi, abbiamo iniziato a ottenere energia eolica e 
 acqua corrente, utilizzandole per mulini a vento e mulini ad acqua. E naturalmente, dovrei aggiungere che abbiamo utilizzato anche il fuoco di legna. Il fuoco di legna era 
 parte dell'agricoltura e della pre-agricoltura. Quella era un'altra fonte di energia che avevamo. Ma poi, se pensi a quanta energia ciascuna di queste fonti potesse fornirci, 
@@ -245,7 +245,7 @@ alcune cose potrebbero non essere nemmeno possibili se non usi il fuoco di legna
 l'acqua per te senza fuoco. Quindi devi farli usare altre fonti di energia,  più intense.
 
 
-Ma gli idrocarburi ci permettono di avere questa sofisticata meccanica che ci consente di avere acqua calda corrente, illuminazione.  confronta l'illuminazione: quante candele
+Ma gli idrocarburi ci permettono di avere questa sofisticata meccanica che ci consente di avere acqua calda corrente, illuminazione.  Confronta l'illuminazione: di quante candele
 avresti bisogno, quanti soldi dovresti spendere per le candele e per le persone che accendono le candele per darti questa luce. Quindi ciò che è accaduto a noi è stato un 
 evento veramente trasformativo per l'umanità negli ultimi pochi secoli, quando siamo passati da una situazione in cui ogni individuo aveva circa l'energia di una persona da 
 dedicare alla propria vita, più frazioni di un animale e un po' di fuoco di legna. Quella era la quantità di energia che avevi. E siamo passati da quel mondo a un mondo in cui,
